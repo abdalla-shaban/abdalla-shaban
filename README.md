@@ -1,21 +1,36 @@
-<h1 align="left">Hi, I'm Abdullah Madkour</h1>
-<h3 align="left">frontend developer from Egypt passionate about crafting seamless and captivating user experiences, I'm a dedicated front-end developer with a love for clean code and pixel-perfect designs. I thrive on transforming creative concepts into interactive and visually appealing websites.</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Madkour</h1>
+<h3 align="center">Frontend Developer | React.js</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdalla-shaban&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla-shaban" /> </p>
 
-<h3 align="left">🛠️ My Favorite Tools:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalla-shaban" alt="abdalla-shaban" /></a> </p>
 
-  <p>
-     <img src="https://skillicons.dev/icons?i=html" alt="html"/>
-     <img src="https://skillicons.dev/icons?i=css" alt="css"/>
-     <img src="https://skillicons.dev/icons?i=js" alt="javascript"/>
-     <img src="https://skillicons.dev/icons?i=react" alt="react"/>
-     <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/>
-     <img src="https://skillicons.dev/icons?i=next" alt="next"/>
-     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"/>
-  </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdullahmadkour" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="mailto:abdallashaban584@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,regex,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vercel,postman" />
+  </a>
+   </p>
+   <h3 align="left">Familiarity With:</h3>
+   <p align="left">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,figma,xd" />
+  </a>
+ </p>
 
-<h3 align="left">💬 Connect with me:</h3>
-<h4 align="left">
-  you can find me on <a href="https://www.linkedin.com/in/abdalla-shaban-b92b88277/">linked in</a> , <a href="https://www.instagram.com/abdallashaban99?igsh=amd2M2ZuaWRydGln">instagram</a> and <a href="https://abdullah-madkour.vercel.app/">Portfolio</a>
-</h5>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla-shaban&show_icons=true&locale=en&layout=compact" alt="abdalla-shaban" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalla-shaban&show_icons=true&locale=en" alt="abdalla-shaban" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla-shaban&" alt="abdalla-shaban" /></p>
