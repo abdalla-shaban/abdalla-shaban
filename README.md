@@ -12,6 +12,9 @@
 <a href="mailto:abdallashaban584@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<a href="https://abdullah-madkour.vercel.app" target="blank">
+  <img src="./web-icon.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
